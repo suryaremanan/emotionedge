@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "8065a56ac3da772b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a7990d6a647fc62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d4b470a09587ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enhancing Classroom Engagement with AI-Driven Monitoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "411a5087afa54ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Enhancing Classroom Engagement with AI-Driven Monitoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf26496acd0f6f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enhancing Classroom Engagement with AI-Driven Monitoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7729a8fe41482a9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e1c06d9eccca53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef5e13b16bf15a5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "383bbdb19bb44a73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1795a14a7ae4fbba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbb7fb59dee81faa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6970124818dff730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1d2e83dbf7eeaf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Enhancing Classroom Engagement with AI-Driven Monitoring.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f38cdd952dca300",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Enhancing Classroom Engagement with AI-Driven Monitoring.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "199e27574e49a5f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c171aaaee0c1ec6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Enhancing Classroom Engagement with AI-Driven Monitoring.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf26496acd0f6f86",
+  "lastOpenFiles": [
+    "Documentation.pdf",
+    "Enhancing Classroom Engagement with AI-Driven Monitoring.md",
+    "Pasted image 20240824111914.png",
+    "Pasted image 20240821172131.png",
+    "mermaid-diagram-2024-08-21-171114.png",
+    "2. Enhancing Classroom Engagement with AI-Driven Monitoring.md",
+    "3. Face and Emotion Recognition Combined.md"
+  ]
+}
