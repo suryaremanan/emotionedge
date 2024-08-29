@@ -1,4 +1,4 @@
-cmake
+cmake==3.25.2
 
 ollama
 fastapi
@@ -6,7 +6,7 @@ uvicorn
 opencv-python
 requests
 protobuf==3.20.*
-dlib-19.22.99-cp38-cp38-win_amd64.whl 
+dlib==19.24.2
 face-recognition
 numpy
 fpdf
