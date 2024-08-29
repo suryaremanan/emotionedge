@@ -1,3 +1,4 @@
+dlib
 ollama
 fastapi
 uvicorn
