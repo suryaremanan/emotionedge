@@ -1,4 +1,5 @@
-dlib
+cmake
+
 ollama
 fastapi
 uvicorn
