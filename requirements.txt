@@ -6,7 +6,7 @@ uvicorn
 opencv-python
 requests
 protobuf==3.20.*
-dlib-bin
+dlib-binary
 face-recognition
 numpy
 fpdf
