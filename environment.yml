@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - requests
   - streamlit opencv-python
+  - aiortc==1.0.0
   - dlib
   - cmake
   - fpdf
