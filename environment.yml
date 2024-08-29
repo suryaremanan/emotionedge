@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - pandas
   - requests
-  - opencv-python
+  - streamlit opencv-python
   - dlib
   - cmake
   - fpdf
