@@ -7,7 +7,8 @@ dependencies:
   - numpy
   - pandas
   - requests
-  - streamlit opencv-python
+  - opencv-python
+  - streamlit-webrtc
   - aiortc==1.0.0
   - dlib
   - cmake
