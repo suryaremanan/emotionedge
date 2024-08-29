@@ -1,22 +1,29 @@
-dlib
-cmake
-
-ollama
-fastapi
-uvicorn
-opencv-python
-requests
-protobuf==3.20.*
-face-recognition
-numpy
-fpdf
-tensorflow
-prometheus_client
-databases[sqlite]
-sqlalchemy
-transformers
-reportlab
-python-multipart
-opencv-python-headless
-plotly
-streamlit
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - requests
+  - opencv-python  
+  - cmake
+  - fpdf
+  - tensorflow
+  - prometheus_client
+  - databases[sqlite]
+  - sqlalchemy
+  - transformers
+  - reportlab
+  - python-multipart
+  - plotly
+  - streamlit
+  - fastapi
+  - uvicorn
+  - face-recognition
+  - opencv-python-headless 
+  - protobuf==3.20.*
+  - pip
+  - pip:
+      - ollama
