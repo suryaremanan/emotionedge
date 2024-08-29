@@ -1,4 +1,4 @@
-cmake==3.25.2
+cmake
 
 ollama
 fastapi
