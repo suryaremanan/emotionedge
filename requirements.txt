@@ -5,7 +5,13 @@ fastapi
 uvicorn
 opencv-python
 requests
-protobuf==3.20.*
+pandas<1.2.0
+plotly==4.14.3
+keras==2.9.0
+Pillow==9.0.1
+streamlit==1.10.0
+tensorflow==2.9.1
+protobuf<3.20,>=3.9.2
 dlib-binary
 face-recognition
 numpy
@@ -17,6 +23,5 @@ sqlalchemy
 transformers
 reportlab
 python-multipart
-opencv-python-headless
-plotly
-streamlit
+
+
